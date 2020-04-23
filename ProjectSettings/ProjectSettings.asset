@@ -224,7 +224,7 @@ PlayerSettings:
   AndroidTargetDevice: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: /Users/mr.popo/Desktop/dinoMergeKeystore.keystore
+  AndroidKeystoreName: D:/Documentos/Alex/Firmas/dinoMergeKeystore.keystore
   AndroidKeyaliasName: dinomerge
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
